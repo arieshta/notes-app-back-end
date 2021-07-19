@@ -48,6 +48,8 @@
 2. **Show saved notes**
 
     Show all or specific saved notes data using `GET` method.
+    * Show all -- path `'/notes'`
+    * Show specific note by id -- path `'/notes/{id}'`
 
 3. **Update saved notes**
 
