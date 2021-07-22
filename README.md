@@ -65,3 +65,7 @@
 * **routes.js** : server routing config.
 * **handler.js** : handler functions used in **routes**.
 * **notes.js** : notes data in object array.
+
+## Run server:
+* Production : `npm run start-prod`
+* Development: `npm run start-dev`
